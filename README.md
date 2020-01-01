@@ -5,5 +5,5 @@ Survival shooter is an isometric game project available as a Unity Tutorial at U
 ### Xbox One Developer Mode activation
 https://docs.microsoft.com/pt-br/windows/uwp/xbox-apps/devkit-activation
 
-### Original Project
+### Survival Shooter Project Tutorial at Unity Learn
 https://learn.unity.com/project/survival-shooter-tutorial
