@@ -2,6 +2,8 @@
 
 Survival shooter is an isometric game project available as a Unity Tutorial at Unity Learn website. This version was customized to run as a UWP app on Xbox One, adding Xbox One controller compatibility.
 
+![Survival Shooter](https://i.imgur.com/2Gomxlk.jpg)
+
 [![Survival Shooter](http://img.youtube.com/vi/iKaj9UviL08/0.jpg)](http://www.youtube.com/watch?v=iKaj9UviL08 "Survival Shooter")
 
 ### Xbox One Developer Mode activation
